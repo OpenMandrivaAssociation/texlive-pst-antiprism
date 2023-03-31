@@ -1,6 +1,6 @@
 Name:		texlive-pst-antiprism
 Version:	46643
-Release:	1
+Release:	2
 Summary:	A PSTricks related package which draws an antiprism
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-antiprism
