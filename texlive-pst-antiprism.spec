@@ -3,7 +3,7 @@ Version:	46643
 Release:	2
 Summary:	A PSTricks related package which draws an antiprism
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-antiprism
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-antiprism
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-antiprism.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-antiprism.doc.r%{version}.tar.xz
